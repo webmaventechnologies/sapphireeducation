@@ -1,0 +1,274 @@
+.caption.med_boxed_white{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 800; 
+			font-size: 25px; 
+			line-height: 21px; 
+			padding: 1px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			background-color:#181818;	
+			letter-spacing: -1.5px;	
+                        text-transform:uppercase;									
+		}
+
+.caption.med_boxed_white_tile{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 800; 
+			font-size: 25px; 
+			line-height: 21px;
+                        z-index:0; 
+			padding: 0; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			background-color:#000;	
+			letter-spacing: -1.5px;	
+                        width:600px;
+                        text-transform:uppercase;									
+		}
+.caption.big_boxed_white{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 36px; 
+			line-height: 100%; 
+			padding: 0; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			background-color:#000;	
+			letter-spacing: -1.5px;	
+                        text-transform:uppercase;									
+		}
+.caption.big_white{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 36px; 
+			line-height: 36px; 
+			padding: 0px 4px; 
+			padding-top: 1px;
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			background-color:#000;	
+			letter-spacing: -1.5px;										
+		}
+
+.caption.big_orange{
+			position: absolute; 
+			color: #ff7302; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 36px; 
+			line-height: 36px; 
+			padding: 0px 4px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			background-color:#fff;	
+			letter-spacing: -1.5px;															
+		}	
+		
+.caption.normal_black{
+			position: absolute; 
+			color: #181818; 
+			text-shadow: none; 
+			font-weight: 400; 
+			font-size: 13px; 
+			line-height: 1.4; 
+			padding: 0px 4px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 	
+			letter-spacing: 0;															
+		}
+			
+.caption.normal_black_right{
+			position: absolute; 
+			color: #333; 
+                        white-space:normal !important;
+			text-shadow: none; 
+			font-weight: 400; 
+			font-size: 13px; 
+			line-height: 1.4; 
+			padding: 0px 4px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+                        text-align:right;
+			letter-spacing: 0;		
+                        width:200px;													
+		}
+
+.caption.light-brown{
+			position: absolute; 
+			color: #532c39; 
+			text-shadow: none; 
+			font-weight: 300; 
+			font-size: 72px; 
+			line-height: 100%; 
+			padding: 0px 4px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			background:none;
+			letter-spacing: -0.07em;	
+                        text-transform:uppercase;														
+		}	
+.caption.fat_black{
+			position: absolute; 
+			color: #181818; 
+			text-shadow: none; 
+			font-weight: 800; 
+			font-size: 38px; 
+			line-height: 38px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+                        letter-spacing: -0.07em;
+			white-space:nowrap;	
+			text-transform:uppercase;	
+		}	
+
+.caption.medium_grey{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 20px; 
+			line-height: 20px; 
+			padding: 2px 4px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			background-color:#888;		
+			white-space:nowrap;	
+			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);		
+		}	
+					
+.caption.small_text{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 14px; 
+			line-height: 20px; 
+			font-family: Arial; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);		
+		}
+					
+.caption.medium_text{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 20px; 
+			line-height: 20px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);		
+		}
+					
+.caption.large_text{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 40px; 
+			line-height: 40px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);		
+		}	
+					
+.caption.very_large_text{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 60px; 
+			line-height: 60px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+			letter-spacing: -2px;		
+		}
+					
+.caption.very_big_white{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 60px; 
+			line-height: 60px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			padding: 0px 4px; 
+			padding-top: 1px;
+			background-color:#000;		
+					}	
+					
+.caption.very_big_black{
+			position: absolute; 
+			color: #000; 
+			text-shadow: none; 
+			font-weight: 700; 
+			font-size: 60px; 
+			line-height: 60px; 
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			white-space:nowrap;	
+			padding: 0px 4px; 
+			padding-top: 1px;
+			background-color:#fff;		
+					}
+					
+.caption.boxshadow{
+		-moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+		-webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+	}
+											
+.caption.black{
+		color: #000; 
+		text-shadow: none;		
+	}	
+					
+.caption.noshadow {
+		text-shadow: none;		
+	}	
+					
+.caption a { 
+	color: #ff7302; text-shadow: none;	-webkit-transition: all 0.2s ease-out; -moz-transition: all 0.2s ease-out; -o-transition: all 0.2s ease-out; -ms-transition: all 0.2s ease-out;	 
+}	
+
+		
+	
+.caption a:hover { 
+	color: #ffa902; 
+}
+
+.caption{
+   font-family:'Open Sans';
+}
