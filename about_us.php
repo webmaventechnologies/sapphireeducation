@@ -163,7 +163,7 @@ navPrevNext : true,
 <h4 class="col-title"><b>Our Founder</b></h4>
 <div class="entry-content">
  <b>Name :  Mr Sohanlal Jain  </b></br>
- <b>Experience :</b> 30+ Years</br>
+ <b>Experience :</b> 31+ Years</br>
  <b>Industry :</b> Education, Marketing and Import - Export.
 </div></br>
 <h4 class="col-title"><b>Our Founders Message</b></h4>
