@@ -17,7 +17,7 @@
         <meta http-equiv="cleartype"    content="on">
         <meta name="author"             content="">
 	
-        <!-- feeds, pingback -->
+        <!--- feeds, pingback -->
         <link rel="profile"             href="http://gmpg.org/xfn/11" />
         <link rel="alternate"           href="feed/index.html" type="application/rss+xml" title="Lotus RSS2 Feed" />  
         <link rel="pingback"            href="xmlrpc.php" />
