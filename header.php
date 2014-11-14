@@ -349,7 +349,7 @@
 					
 					<li id="menu-item-81"
 					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a
-					href="why_distance.php">Downlaod Syllabus</a>
+					href="why_distance.php">Download Syllabus</a>
 					<ul class="sub-menu">
 						<li id="menu-item-1869"
 							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1869">
